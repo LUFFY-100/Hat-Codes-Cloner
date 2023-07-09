@@ -3,7 +3,6 @@ pypresence
 discord
 asyncio
 colorama
-platform
 inquirer 
 requests
 
