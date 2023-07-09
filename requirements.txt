@@ -1,11 +1,6 @@
 psutil
 pypresence 
 discord
-rich.table
-rich.console
-rich.style
-rich.panel
-rich.text
 asyncio
 colorama
 platform
