@@ -1,6 +1,5 @@
 psutil
 pypresence 
-sys
 discord
 subprocess
 rich.table
