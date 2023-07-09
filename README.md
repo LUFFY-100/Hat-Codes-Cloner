@@ -1,8 +1,10 @@
 # Hat Codes Course 
-This Clones Discord Servers But Only Requires Your : 
+
+**This Clones Discord Servers But Only Requires Your : **
 - Token
 - Server You Want To Copy 
-- Your Serevr Id 
+- Your Serevr Id
+**What It Does :** 
 + Copies premissions for roles and channels
 + Copies Emojies
 +  Copies Server Name and Server Image 
