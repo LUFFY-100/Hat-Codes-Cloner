@@ -1,6 +1,5 @@
 psutil
 pypresence 
-time
 sys
 discord
 subprocess
@@ -15,4 +14,4 @@ platform
 inquirer
 cloner 
 requests
-random
+
