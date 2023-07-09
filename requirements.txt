@@ -9,7 +9,6 @@ rich.text
 asyncio
 colorama
 platform
-inquirer
-cloner 
+inquirer 
 requests
 
