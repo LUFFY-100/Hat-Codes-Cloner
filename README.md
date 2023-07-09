@@ -1,3 +1,6 @@
+# PATCHED 
+ONLY IF YOU Download old pyhton it will work 
+
 # Hat Codes Course 
 
 This Clones Discord Servers But Only Requires Your :
