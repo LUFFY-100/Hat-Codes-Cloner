@@ -1,7 +1,6 @@
 psutil
 pypresence 
 discord
-subprocess
 rich.table
 rich.console
 rich.style
