@@ -12,7 +12,7 @@ What It Does :
 
 # Kali Luinx 
 
-``git clone https://github.com/LUFFY-100/Hats-Codess.git``
+``git clone https://github.com/LUFFY-100/Hat-Codes-Cloner.git``
 
 ``cd Hat-Codes-Cloner``
 
